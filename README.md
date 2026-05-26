@@ -1,4 +1,4 @@
-# How_to_jump
+# How_to_climbover
 
 1. 配置分流规则，请使用全局扩展覆写规则。
 
